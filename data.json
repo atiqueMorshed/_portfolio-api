@@ -14,6 +14,18 @@
       "jsonwebtoken",
       "Stripe"
     ],
+    "features": [
+      "Users can login and register with their email or use Google.",
+      "Users can select how much they want to buy and can pay easily using credit card.",
+      "Users can delete unpaid orders.",
+      "Users can leave a review from my reviews page.",
+      "Users and admin can view and update their profile information.",
+      "Admins can delete pending orders",
+      "Admins can update shipping for paid orders",
+      "Admins can add new tools.",
+      "Admins can delete existing tools.",
+      "Admins can make other users admin."
+    ],
     "live": "https://paint-it-black-art-tools.web.app/",
     "github_client": "https://github.com/atiqueMorshed/paint-it-black-manufacturer-client",
     "github_server": "https://github.com/atiqueMorshed/paint-it-black-manufacturer-server",
