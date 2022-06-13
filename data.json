@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Paint It Black",
+    "description": "Paint It Black is an art tool manufacturer website. Users can buy different art products from here. They can place orders, pay any unpaid orders or remove them. Users can also place review and see other's reviews. The website also allows users to change user information. An admin can also remove any unpaid orders or change the shipping status for any paid order.",
+    "category": "MERN",
+    "technologies": [
+      "tailwind",
+      "react",
+      "react-query",
+      "firebase",
+      "express",
+      "mongodb",
+      "jsonwebtoken",
+      "Stripe"
+    ],
+    "live": "https://paint-it-black-art-tools.web.app/",
+    "baseImage": "",
+    "images": [
+      {
+        "perspective": "user",
+        "urls": []
+      },
+      {
+        "perspective": "admin",
+        "urls": []
+      }
+    ]
+  }
+]
