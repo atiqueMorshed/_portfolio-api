@@ -1,0 +1,33 @@
+{
+	"_id": "000102",
+	"name": "Graph",
+	"description": "Graph is a personal photography service website. Here, users can buy services from the photographer based on their needs. Users can also view the latest visits by the photographer to get an idea. Registered user can checkout a service that they like.",
+	"category": "React",
+	"technologies": ["tailwind", "swiper", "framer motion", "react", "firebase"],
+	"features": [
+		"Homepage carousel gives an user a clear idea about the website.",
+		"Services section displays all the offered services.",
+		"Users can login and register with their email or use Google or Github login system.",
+		"Checkout route is kept private, so when an unauthorized user tries to access it, s/he will be redirected to the login page. After login, user is automatically redirected to the checkout page.",
+		"Header shows currently active link.",
+		"Blog and about section allows an user to get more information about the website.",
+		"Fully responsive site that allows a user to browse from any device."
+	],
+	"live": "https://ph-milestone-10-graph.web.app/",
+	"github_client": "https://github.com/atiqueMorshed/GRAPH-wild-photography",
+	"baseImage": "https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/base.jpg?raw=true",
+	"images": [
+		{
+			"perspective": "user",
+			"urls": [
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/01.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/02.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/03.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/04.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/05.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/06.jpg?raw=true",
+				"https://github.com/atiqueMorshed/_portfolio-api/blob/main/assets/graph/user/07.jpg?raw=true"
+			]
+		}
+	]
+}
